@@ -7,3 +7,15 @@
     margin: 0 auto;
     margin-bottom: 8px;
 }
+
+.black{
+    border: 1px solid black;
+}
+
+.red{
+    border: 1px solid red;
+}
+
+.blue{
+    border: 1px solid blue;
+}

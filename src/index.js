@@ -2,9 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './components/App';
-import { productList } from './productAPI/index.js';
+//import { productList } from './productAPI/index.js';
 
-console.log(productList)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
